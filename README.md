@@ -53,7 +53,8 @@ Intended for technical preprocessing, especially for:
 molecular docking
 structure cleanup
 pipeline standardization
-🧠 Use Cases
+
+**7. Use Cases**
 Preparing structures for docking tools (AutoDock, Vina, Glide)
 Standardizing residue numbering across datasets
 Simplifying multi-chain protein complexes
